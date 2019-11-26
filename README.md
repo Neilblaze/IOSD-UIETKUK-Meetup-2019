@@ -1,5 +1,5 @@
-# IOSD-UIETKUK-HacktoberFest-Meetup-2019
-This repository for IOSD UIET-KUK HacktoberFest  Meetup 2019
+# IOSD-UIETKUK-Meetup-2019
+This repository for IOSD UIET-KUK Devs Meetup 2019
 Write a program in your preferred language.. 
 
 ## Getting Started
